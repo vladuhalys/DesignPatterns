@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patterns_1.Builder.Builder&lt;T&gt;">
+    <Position X="18.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABQCAgBACAAAAAAAACAAAAACIESAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Patterns_1.Builder.WoodHouseBuilder">
+    <Position X="16.75" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAABQCAABACAAAAAAAACAAAAACIASAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns_1.Builder.MetalHouseBuilder">
+    <Position X="19.75" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAABQCAABACAAAAAAAACAAAAACIASAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns_1.Builder.Director">
+    <Position X="16.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAABQAAAAAAAABgAAAAAAAAACAI=</HashCode>
+      <FileName>Builder\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns_1.Builder.Product&lt;T&gt;">
+    <Position X="13" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAEgAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Builder\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Patterns_1.Builder.WoodProduct">
+    <Position X="14" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns_1.Builder.MetalProduct">
+    <Position X="11.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns_1.Builder.ClientCode">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Builder\ClientCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Patterns_1.Builder.IBuilder&lt;T&gt;">
+    <Position X="18.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABQCAABACAAAAAAAACAAAAACIASAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Patterns_1.Builder.IProduct&lt;T&gt;">
+    <Position X="13" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Builder\Product.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
