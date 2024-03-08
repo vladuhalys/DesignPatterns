@@ -1,6 +1,8 @@
 ﻿
 
-using Patterns_1.Singleton;
+
+
+using Pattern_2.Bridge;
 
 namespace DesignPatterns
 {
