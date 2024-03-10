@@ -1,10 +1,4 @@
-﻿
-
-
-
-
-
-using Pattern_2.Decorator;
+﻿using Pattern_2.Facade;
 
 namespace DesignPatterns
 {
