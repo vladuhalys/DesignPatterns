@@ -2,7 +2,9 @@
 
 
 
-using Pattern_2.Bridge;
+
+
+using Pattern_2.Decorator;
 
 namespace DesignPatterns
 {
