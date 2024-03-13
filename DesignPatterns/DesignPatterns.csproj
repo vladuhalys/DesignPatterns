@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Patterns_1\Patterns_1.csproj" />
     <ProjectReference Include="..\Pattern_2\Pattern_2.csproj" />
+    <ProjectReference Include="..\Pattern_3\Pattern_3.csproj" />
   </ItemGroup>
 
 </Project>

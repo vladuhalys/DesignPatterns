@@ -1,4 +1,6 @@
-﻿using Pattern_2.Facade;
+﻿
+
+using Pattern_3.Mediator;
 
 namespace DesignPatterns
 {
