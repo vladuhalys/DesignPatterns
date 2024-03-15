@@ -1,6 +1,4 @@
-﻿
-
-using Pattern_3.Mediator;
+﻿using Pattern_3.State;
 
 namespace DesignPatterns
 {
