@@ -1,4 +1,4 @@
-﻿using Pattern_3.State;
+﻿using Pattern_3.Visitor;
 
 namespace DesignPatterns
 {
