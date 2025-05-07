@@ -17,10 +17,7 @@ namespace Patterns_1.Singleton
             {
                 lock (_lock)
                 {
-                    if (_instance == null)
-                    {
-                        _instance = new Singleton();
-                    }
+                    _instance = new Singleton();
                 }
             }
             return _instance;
