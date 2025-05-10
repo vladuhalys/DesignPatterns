@@ -31,7 +31,7 @@ namespace Pattern_2.Decorator
         }
         public string Send(string message)
         {
-            return $"Website {Name} send \"{message}\"";
+            return $"Web Browser service {Name} send \"{message}\"";
         }
     }
     public class ServerNotify : IComponent

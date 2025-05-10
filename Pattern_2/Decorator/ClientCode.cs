@@ -20,7 +20,7 @@ namespace Pattern_2.Decorator
         public void Main()
         {
             IComponent mobileNotify = new MobileNotify("Samsung A50");
-            IComponent webNotify = new WebNotify("OLX");
+            IComponent webNotify = new WebNotify("Web Push Notifier");
             IComponent serverNotify = new ServerNotify("AWS Linux 45.4");
 
             var forMobileNotification = new List<IComponent>();

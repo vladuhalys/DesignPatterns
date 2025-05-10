@@ -1,4 +1,4 @@
-﻿using Patterns_1.Builder;
+﻿using Pattern_2.Decorator;
 
 namespace DesignPatterns
 {
